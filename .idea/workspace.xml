@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f559e69c-7f51-4c35-9099-2a5657c79b98" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/__tests__/compare.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__tests__/edit.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__tests__/empty.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/compare.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edit.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/empty.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/geometry.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__tests__/BoundedRectangle.test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__tests__/IRectangle.test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__tests__/MRectangle.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__tests__/NumericRange.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/angles/convert.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/line/Line.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/line/Segment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/line/convert.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/line/lineInRectangle.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/line/types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/points/convert.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/points/types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/range/NumericRange.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/range/XYRange.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/range/types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rectangle/BoundedRectangle.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rectangle/ImmutableRectangle.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rectangle/MutableRectangle.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rectangle/RectangleBoundary.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rectangle/types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rectangle/util.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rectanglePoints/RectanglePoint.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rectanglePoints/booleans.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rectanglePoints/enums.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rectanglePoints/midpointsSides.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rectanglePoints/name-tuples.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rectanglePoints/opposites.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rectanglePoints/types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scaling/ScalableBaseCalc.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scaling/ScalableCalculator.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scaling/ScaledObject.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scaling/ScaledVersion.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scaling/typecheck.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scaling/types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sized/SizeFinder.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sized/SizedImage.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sized/size-array-util.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sized/sized-util.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sized/types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/text/TextResizer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/text/TextResizer.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/text/TextResizer.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/text/TextResizer.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/text/WindowTextSizer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/text/text-size.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/window/MultiRangeSizer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/window/types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gmYsXa7mT3TwLrNAl4GwhEW7Hy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../DefinitelyTypedFork" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="C:\Users\Linda Paiste\PhpstormProjects\my-modules\array-edit\node_modules\typescript\lib" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f559e69c-7f51-4c35-9099-2a5657c79b98" name="Default Changelist" comment="" />
+      <created>1598721441810</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598721441810</updated>
+      <workItem from="1598721443006" duration="6107000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/text/TextResizer.js.map" />
+        <option value="$PROJECT_DIR$/src/text/TextResizer.js" />
+        <option value="$PROJECT_DIR$/src/text/TextResizer.jsx" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1598725980672">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2660" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598725980672" />
+    <state x="2758" y="418" key="Github.ShareDialog" timestamp="1598727368585">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2758" y="418" key="Github.ShareDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598727368585" />
+    <state x="2381" y="165" key="SettingsEditor" timestamp="1598727323736">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2381" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598727323736" />
+    <state x="2012" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1598727310774">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2012" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598727310774" />
+  </component>
+</project>

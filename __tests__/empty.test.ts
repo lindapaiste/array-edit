@@ -1,4 +1,4 @@
-import {arrayFirst, arrayLast, createNonEmptyArray, isNotEmpty, NonEmptyArray, toNonEmpty} from "../src/empty";
+import {arrayFirst, arrayLast, createNonEmptyArray, isNotEmpty, NonEmptyArray, toNonEmpty} from "../src";
 
 test("test non-empty array methods and types", () => {
 
@@ -37,10 +37,11 @@ test("test non-empty array methods and types", () => {
     // ------------ CAST ----------- //
 
     // note: allows assigning any to non empty type, ie. const eTo: NonEmptyArray<number>, which is not ideal
+    // when the test actually runs, ALL need to be set to undefined | NonEmptyArray<number>, including the non-empty array
 
     const aTo: undefined | NonEmptyArray<number> = toNonEmpty(array);
     const eTo: undefined | NonEmptyArray<number> = toNonEmpty(empty);
-    const nTo: NonEmptyArray<number> = toNonEmpty(nonEmpty);
+    const nTo: undefined | NonEmptyArray<number> = toNonEmpty(nonEmpty);
 
     expect(aTo).toBe(array);
     expect(eTo).toBe(undefined);
